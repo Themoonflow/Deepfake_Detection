@@ -1,0 +1,1 @@
+aws s3 sync s3://arn:aws:s3:us-east-1:604877620213:accesspoint/dfdc-data-ap-2/test . --request-payer --region=us-east-1
